@@ -9,9 +9,10 @@ Sebuah list sederhana yang berisi bilangan bulat.
 Sebuah bilangan bulat yang merupakan nilai minimum dari list masukan
 ```
 ### Contoh Masukan
-````
+```
 [10,2,3,4,9].
 ```
+
 ### Contoh Keluaran
 ```
 2
