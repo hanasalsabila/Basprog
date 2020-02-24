@@ -1,13 +1,12 @@
+# Bilangan Minimum Dalam List
 Diketahui sebuah list sederhana yang berisi bilangan bulat. Buat program prolog untuk mencari nilai minimum dari list tersebut. Sebagai contoh, jika diberi masukan list [10,2,3,4,9] maka keluarannya adalah 2 sebagai nilai minimum dari list tersebut. Asumsi: Tidak ada anggota list yang bernilai sama.
 
 ### Format Masukan
-```
 Sebuah list sederhana yang berisi bilangan bulat.
-```
+
 ### Format Keluaran
-```
 Sebuah bilangan bulat yang merupakan nilai minimum dari list masukan
-```
+
 ### Contoh Masukan
 ```
 [10,2,3,4,9].
