@@ -1,4 +1,6 @@
 # Operasi Tiga Bilangan
+Buatlah program logika Prolog yang menerima tiga nilai bilangan bulat a, b, dan c. Selanjutnya program tersebut melakukan proses penjumlahan a+b+c jika c tidak bernilai 0, dan melakukan proses a*b untuk selainnya (c bernilai 0).
+
 ### Format Masukan
 Tiga nilai bilangan bulat.
 
