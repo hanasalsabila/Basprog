@@ -2,27 +2,27 @@
 
 Diketahui sebuah list berisi dua buah bilangan bulat a dan b. Buatlah program prolog yang dapat menemukan b kelipatan pertama dari a secara menurun.
 
-## Format Masukan
+### Format Masukan
 
 Sebuah list berisi dua buah bilangan bulat a dan b
 
-## Format Keluaran
+### Format Keluaran
 
 Sebuah list berisi b kelipatan pertama dari a secara menurun
 
-## Contoh Masukan
+### Contoh Masukan
 
 ```
 [2,5].
 ```
 
-## Conton Keluaran
+### Conton Keluaran
 
 ```
 [10,8,6,4,2]
 ```
 
-## Catatan
+### Catatan
 
 10 adalah 2x5, 8 adalah 2x4, 6 adalah 2x3, 4 adalah 2x2, 2 adalah 2x1.
 
