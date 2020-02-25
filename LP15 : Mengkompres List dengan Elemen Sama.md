@@ -1,6 +1,6 @@
 # Mengkompres List dengan Elemen Sama
 
-Buat program Prolog untuk mengkompres list dengan elemen yang sama dan bersebelahan. Sebagai contoh, list [2,3,3,4,4,4] dikompres menjadi [[2,1],[3,2],[4,3]].
+Buat program Prolog untuk mengkompres list dengan elemen yang sama dan bersebelahan. Sebagai contoh, list `[2,3,3,4,4,4]` dikompres menjadi `[[2,1],[3,2],[4,3]]`.
 
 ### Format Masukan
 Sebuah list sederhana.
