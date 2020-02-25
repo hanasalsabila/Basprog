@@ -26,6 +26,8 @@ Sebuah list berisi b kelipatan pertama dari a secara menurun
 
 10 adalah 2x5, 8 adalah 2x4, 6 adalah 2x3, 4 adalah 2x2, 2 adalah 2x1.
 
+### Code
+
 ```pl
 program:- read(Lin), desc_mul(Lin, Lout), write(Lout),nl.
 desc_mul([], []) :- !.
